@@ -7,5 +7,6 @@
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Java](./solutions/136.%20Single%20Number.java)|2 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|1 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./solutions/206.%20Reverse%20Linked%20List.java)|0 ms|
+|283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|1 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./solutions/412.%20Fizz%20Buzz.java)|2 ms|
