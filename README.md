@@ -14,6 +14,7 @@
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|1 ms|
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java)|0 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Java](./solutions/136.%20Single%20Number.java)|2 ms|
+|155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|4 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|1 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](./solutions/171.%20Excel%20Sheet%20Column%20Number.java)|1 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./solutions/191.%20Number%20of%201%20Bits.java)|0 ms|
