@@ -6,6 +6,7 @@
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./solutions/20.%20Valid%20Parentheses.java)|1 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./solutions/21.%20Merge%20Two%20Sorted%20Lists.java)|0 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|0 ms|
+|28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./solutions/28.%20Implement%20strStr().java)|0 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Java](./solutions/66.%20Plus%20One.java)|0 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./solutions/70.%20Climbing%20Stairs.java)|0 ms|
