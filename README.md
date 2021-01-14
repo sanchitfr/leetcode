@@ -27,6 +27,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|12 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./solutions/268.%20Missing%20Number.java)|0 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
+|326|[ Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](./solutions/326.%20Power%20of%20Three.java)|11 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|1 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.java)|2 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|24 ms|
