@@ -30,6 +30,7 @@
 |190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./solutions/190.%20Reverse%20Bits.java)|1 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./solutions/191.%20Number%20of%201%20Bits.java)|0 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./solutions/202.%20Happy%20Number.java)|0 ms|
+|204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|13 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./solutions/206.%20Reverse%20Linked%20List.java)|0 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./solutions/217.%20Contains%20Duplicate.java)|6 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./solutions/234.%20Palindrome%20Linked%20List.java)|0 ms|
