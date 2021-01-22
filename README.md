@@ -11,6 +11,7 @@
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./solutions/28.%20Implement%20strStr().java)|0 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Java](./solutions/46.%20Permutations.java)|1 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./solutions/48.%20Rotate%20Image.java)|0 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|6 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Java](./solutions/66.%20Plus%20One.java)|0 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./solutions/69.%20Sqrt(x).java)|1 ms|
