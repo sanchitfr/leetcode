@@ -47,6 +47,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|12 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./solutions/268.%20Missing%20Number.java)|0 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
+|289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](./solutions/289.%20Game%20of%20Life.java)|0 ms|
 |326|[ Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](./solutions/326.%20Power%20of%20Three.java)|11 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|1 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|8 ms|
