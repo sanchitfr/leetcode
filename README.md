@@ -50,6 +50,7 @@
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./solutions/287.%20Find%20the%20Duplicate%20Number.java)|0 ms|
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](./solutions/289.%20Game%20of%20Life.java)|0 ms|
 |326|[ Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](./solutions/326.%20Power%20of%20Three.java)|11 ms|
+|328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./solutions/328.%20Odd%20Even%20Linked%20List.java)|0 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|1 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|8 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.java)|2 ms|
