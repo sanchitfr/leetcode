@@ -1,19 +1,23 @@
 class Solution {
     
-    private void subsets(int[] nums, List<List<Integer>> ans, List<Integer> list, int si){
-        if(si >= nums.length){
-            ans.add(list);
-            return;
+    private static List<List<Integer>> helper(int[] nums, int index){
+        if(index >= nums.length){
+            List<List<Integer>> op = new ArrayList<>();
+            op.add(new ArrayList<Integer>());
+            return op;
         }
-        List<Integer> op1 = new ArrayList<>(list);
-        op1.add(nums[si]);
-        subsets(nums, ans, op1, si+1);        
-        subsets(nums, ans, list, si+1);
+        
+        List<List<Integer>> smallAns = helper(nums, index+1);
+        int length = smallAns.size();
+        for(int i = 0; i<length; i++){
+            List<Integer> elem = new ArrayList<>(smallAns.get(i));
+            elem.add(nums[index]);
+            smallAns.add(elem);
+        }   
+        return smallAns;
     }
     
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
-        subsets(nums, ans, list, 0);
-        return ans;
-   
+        return helper(nums, 0);
+    }
+}
