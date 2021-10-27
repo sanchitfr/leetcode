@@ -33,6 +33,7 @@
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./solutions/74.%20Search%20a%202D%20Matrix.java)|0 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[Java](./solutions/78.%20Subsets.java)|0 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./solutions/88.%20Merge%20Sorted%20Array.java)|0 ms|
+|91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](./solutions/91.%20Decode%20Ways.java)|2 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.java)|0 ms|
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./solutions/101.%20Symmetric%20Tree.java)|0 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.java)|0 ms|
