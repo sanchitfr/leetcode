@@ -10,14 +10,11 @@ class Solution {
                     image[i][j] = image[i][n-1 - j];
                     image[i][n-1-j] = temp;
                 }
-            }
-            System.out.println(Arrays.toString(image[i]));
-        }
 
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                image[i][j] = (image[i][j] + 1)%2;
             }
+
+            for(int j=0; j<n; j++) image[i][j] = (image[i][j] +1)%2;
+            System.out.println(Arrays.toString(image[i]));
         }
         return image;
     }
